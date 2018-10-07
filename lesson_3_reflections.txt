@@ -18,7 +18,8 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    It is beneficial to have a copy of the last known state of the remote stored locally
+    because then it can be accessed without an internet connection and does not need to be merged immediately.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
