@@ -29,4 +29,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    It will be convenient to make changes in a seperate branch when collaborating with other people, in order to agree with changes before altering the master branch.
